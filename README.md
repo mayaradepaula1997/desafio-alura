@@ -18,7 +18,7 @@ O Challenge One consiste em uma aplicação que permite ao usuário criptografar
 
 ## Como Usar
 
-1. Clone este repositório: git clone https://github.com/mayaradepaula1997/desafio-alura
+1. Clone este repositório: git clone https://github.com/mayaradepaula1997/desafio-alura.git
 
 2. Abra o arquivo `index.html` no seu navegador.
 
