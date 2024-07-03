@@ -8,6 +8,7 @@ O Challenge One consiste em uma aplicação que permite ao usuário criptografar
 
 - Criptografar texto inserido pelo usuário.
 - Descriptografar o texto criptografado inserido pelo usuário.
+- Copiar texto criptografado e descriptografado.
 
 ## Tecnologias Utilizadas
 
